@@ -1,7 +1,0 @@
-﻿  prog.c
-c:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
-C:\Users\לירן\source\repos\MovieMakerProject\MovieMakerProject\prog.c(175,12): warning C4129: 'c': unrecognized character escape sequence
-C:\Users\לירן\source\repos\MovieMakerProject\MovieMakerProject\prog.c(206,12): warning C4129: 'c': unrecognized character escape sequence
-  saveLoad.c
-  Generating Code...
-  MovieMakerProject.vcxproj -> C:\Users\לירן\source\repos\MovieMakerProject\x64\Debug\MovieMakerProject.exe
